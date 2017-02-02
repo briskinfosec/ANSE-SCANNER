@@ -8,14 +8,14 @@ with it and also to create new path in cyber security for future.
 For Further info regarding about NSE script [HERE] (https://nmap.org/nsedoc/scripts/)
 
 ##Documentation
-* https://github.com/briskinfosec/Tools/wiki/Documentation
+* https://github.com/briskinfosec/ANSE-SCANNER/wiki/1.Documentation
 
 ##Updates
 If you want new features create a issue report and label it enhancement. Or start a pull request. we don't have enough time 
 to daily change ANSE scanner.
 
 ##:scroll:Changelog
-ANSE Scanner gets updates with new features, improvements and bugfixes. Be sure to check out the Changelog
+ANSE Scanner gets updates with new features, improvements and bugfixes. Be sure to check out the [Changelog](https://github.com/briskinfosec/ANSE-SCANNER/wiki/2.Change-log)
 
 ##:octocat:Credits:
 * ArulSelvar Thomas: [Founder and Director of BriskInfosec Technology and Consulting Pvt Ltd](https://in.linkedin.com/in/briskinfosec)
@@ -27,7 +27,7 @@ ANSE Scanner gets updates with new features, improvements and bugfixes. Be sure 
 
 ##:octocat:How to contribute
 All contributions are welcome, from code to documentation, to design suggestions, to bug reports.
-Please use GitHub to its fullest-- submit pull requests, contribute tutorials or other wiki content-- whatever 
+Please use GitHub to its fullest. submit pull requests, contribute tutorials or other wiki content, whatever 
 you have to offer, we can use it!
 
 ##Support us !
