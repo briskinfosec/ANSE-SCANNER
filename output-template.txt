@@ -1,0 +1,8 @@
+
+File output Format:
+output/192.162.1.1-telnet-nse.txt 
+
+ouput-Directoty which stores all nmap scan result
+192.162.1.1-[IP Address]
+telent-nse -[File Name]
+
