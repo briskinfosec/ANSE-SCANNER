@@ -1,5 +1,5 @@
 
-![bannner-anse](https://cloud.githubusercontent.com/assets/22318677/19919517/566b9436-a0f9-11e6-84b2-ae7b26b1b167.png)
+![bannner-anse](https://cloud.githubusercontent.com/assets/16552643/25836591/c33b983c-34a5-11e7-89da-76ed810bacac.png)
 # ANSE SCANNER v1.0:
 ## What is ANSE Scanner?
 ANSE Scanner is a tool developed mainly for creating awareness among infosec folks to utilize Nmap(NSE script) completely 
@@ -19,7 +19,6 @@ ANSE Scanner gets updates with new features, improvements and bugfixes. Be sure 
 ## :octocat:Credits:
 * ArulSelvar Thomas: [Founder and Director of BriskInfosec Technology and Consulting Pvt Ltd](https://in.linkedin.com/in/briskinfosec)
 * Satish kannan: [Co-Founder and Technical Director](https://in.linkedin.com/in/briskinfosec)
-* Joshi Feliksha: [Co-Founder and Managing Director](https://in.linkedin.com/in/briskinfosec)
 * Umar Farook: [Security Engineer](https://in.linkedin.com/in/briskinfosec)
 * Dhamu Harker: [Security Engineer](https://in.linkedin.com/in/briskinfosec)
 * Dinesh Dinz: [Security Engineer](https://in.linkedin.com/in/briskinfosec)
